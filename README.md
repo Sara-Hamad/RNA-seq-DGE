@@ -1,7 +1,7 @@
 # RNA-seq-DGE
 
 Differential Expression and Enrichment Analysis of Gene Expression
-Quantification Data from TCGA using #R
+Quantification Data from TCGA using R
 
 Documentation is available in the current repositry under the name "Report"
 
